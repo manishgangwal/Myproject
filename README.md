@@ -1,1 +1,4 @@
 # Myproject
+---
+permalink: /index.html
+---
